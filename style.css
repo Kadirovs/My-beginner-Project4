@@ -1,0 +1,94 @@
+/*#elem{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+.div{
+    width: 200px;
+    height: 400px;
+    border: 10px;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+img{
+    height: 400px;
+    border-radius: 10px;
+}
+button{
+    background-color: brown;
+    color: black;
+    width: 100px;
+}*/
+
+
+#main{
+    width: 600px;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.div1{
+    width: 600px;
+}
+.div2{
+    width: 550px;
+    height: 450px;
+    background-color: green; 
+}
+.img{
+    
+    padding-left: 25px;
+    width: 550px;
+    height: 350px;
+    justify-content: center;
+}
+.second{
+    padding-left: 10px;
+}
+#text{
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+#texts{
+    padding-left: 10px;
+    font-size: 20px;
+}
+#car{
+    width: 50px;
+    height: 25px;
+    color: white;
+    background-color: black;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+button{
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 50%;
+}
+
+#Addtocard{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+
+.b1{
+    background-color: red;
+}
+.b2{
+    background-color: gray;
+}
+.b3{
+    background-color: brown;
+}
